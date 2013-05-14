@@ -2,7 +2,10 @@
 	"folders":
 	[
 		{
-			"path": "/Volumes/DADOS/GIT_HUB/finalistas"
+			"path": "backOffice"
+		},
+		{
+			"path": "finalistas"
 		}
 	]
 }
